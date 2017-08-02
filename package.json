@@ -1,0 +1,15 @@
+{
+  "name": "authentication_app",
+  "version": "1.0.0",
+  "description": "This is a Authentication app developed by using MEAN stack.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
